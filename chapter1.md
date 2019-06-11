@@ -1,20 +1,16 @@
 ---
-  title: "Introduccción"
-  description: "La importancia de la analítica  en educación"
-  v2: true
-
+title: Introduccción
+description: 'La importancia de la analítica  en educación'
 ---
+
 ## An exercise title written in sentence case
 
 ```yaml
 type: NormalExercise
+key: fa4b6320f5
 lang: r
 xp: 100
 skills: 1
-key: fa4b6320f5
-
-
-
 ```
 
 This is the assignment text. It should help provide students with the background information needed.
@@ -36,6 +32,7 @@ The instructions that follow should be in bullet point form with clear guidance 
 ```{r}
 # Load datasets and packages here.
 ```
+
 `@sample_code`
 ```{r}
 # Your
@@ -48,6 +45,7 @@ The instructions that follow should be in bullet point form with clear guidance 
 # with a max
 # of 16 lines.
 ```
+
 `@solution`
 ```{r}
 # Answer goes here
@@ -55,12 +53,9 @@ The instructions that follow should be in bullet point form with clear guidance 
 # to help students see the differences from solution
 # to given.
 ```
+
 `@sct`
 ```{r}
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
-
-
-
-
