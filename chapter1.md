@@ -1,6 +1,6 @@
 ---
 title: Introduccción
-description: 'La importancia de la analítica  en educación'
+description: La importancia de la analítica  en educación
 free_preview: true
 ---
 
@@ -11,7 +11,8 @@ type: NormalExercise
 key: fa4b6320f5
 lang: r
 xp: 100
-skills: 1
+skills:
+  - 1
 ```
 
 This is the assignment text. It should help provide students with the background information needed.
